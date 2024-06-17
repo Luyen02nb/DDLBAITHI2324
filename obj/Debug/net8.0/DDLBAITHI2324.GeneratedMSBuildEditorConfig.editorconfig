@@ -26,20 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\tin hoc van phong nang cao\DDLBAITHI2324
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/tin hoc van phong nang cao/DDLBAITHI2324/Views/DDL416Person/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERMNDE2UGVyc29uXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/tin hoc van phong nang cao/DDLBAITHI2324/Views/DDL416Person/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERMNDE2UGVyc29uXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/tin hoc van phong nang cao/DDLBAITHI2324/Views/DDL416Person/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERMNDE2UGVyc29uXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/tin hoc van phong nang cao/DDLBAITHI2324/Views/DDL416Person/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERMNDE2UGVyc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/tin hoc van phong nang cao/DDLBAITHI2324/Views/DDL416Person/Index.cshtml]
