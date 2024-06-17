@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DDLBAITHI2324.props" />
+</Project>
